@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+//        let myButton = UIButton(frame: CGRect(x: 40, y: 40, width: <#T##CGFloat#>, height: <#T##CGFloat#>))
         // Do any additional setup after loading the view.
     }
 
